@@ -5,6 +5,8 @@ My resume (using LaTeX).
 - Create new blank project on https://www.overleaf.com/
 - upload resume.tex
 
+![](resume.jpg)  
+
 ## Inspired by:
 - https://www.overleaf.com/latex/templates/jakes-resume-anonymous/cstpnrbkhndn
 - https://www.careercup.com/resume
